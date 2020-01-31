@@ -9,3 +9,7 @@
     height: 250px;
     background-color: green;
 }
+.container{
+    text-align: center;
+    margin: 0 auto;
+}
