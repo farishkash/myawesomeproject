@@ -1,25 +1,13 @@
-.lorem{
-    margin: 5px;
-}
-
-.floatdemo{
-    margin: 10px;
-    float: right;
-}
-
-.cleardemo{
-    margin: 5px;
-    clear: both;
-}
-
-div {
-    font-size: 24px;
+.container{
     text-align: center;
 }
 
 .box1{
-    width: 90%;
+    width: 400px ;
     height: 400px;
+    background-color: green;
     border: 1px solid black;
     margin: 0 auto;
+    font-size: 34px;
+    text-align: center;
 }
