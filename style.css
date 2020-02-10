@@ -6,8 +6,15 @@
     width: 400px ;
     height: 400px;
     background-color: green;
+<<<<<<< HEAD
     border: 1px solid black;
     margin: 0 auto;
     font-size: 34px;
     text-align: center;
+=======
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+>>>>>>> script
 }
